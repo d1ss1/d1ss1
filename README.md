@@ -8,7 +8,8 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 
 ## **Stats**
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d1ss1&layout=compact&theme=nord)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d1ss1&layout=compact&theme=github_dark)
 
 
 #
